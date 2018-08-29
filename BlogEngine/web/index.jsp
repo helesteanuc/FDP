@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Fragmented Thoughts</title>
   </head>
   <body>
-  $END$
+  <img src="img/profile_blog_image.jpg"><
+  WIP - Status devoted
   </body>
 </html>
