@@ -25,6 +25,7 @@
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="AppEngine Dev 1.9.64" level="application_server_libraries" />
+    <orderEntry type="library" scope="PROVIDED" name="AppEngine Dev 1.9.64" level="application_server_libraries" />
     <orderEntry type="library" name="AppEngine API" level="project" />
   </component>
 </module>
