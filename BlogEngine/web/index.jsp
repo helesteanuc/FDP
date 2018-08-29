@@ -8,10 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="css/primaryPage.css">
     <title>Fragmented Thoughts</title>
   </head>
   <body>
-  <img src="img/profile_blog_image.jpg"><
+  <img class="rotate90" src="img/profile_blog_image.jpg"><
   WIP - Status devoted
   </body>
 </html>
